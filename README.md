@@ -1,5 +1,5 @@
 
-# Typing-Speed-TUI
+# Typing-Speed
 
 A simple typing speed test program that uses python and only built-in libraries. It has a user-wise
 data recording and the ability to view previous sessions and best runs and times. It even has a leaderboard
